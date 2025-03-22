@@ -3,7 +3,7 @@
 
 # Malware Classification Project
 
-![Python](https://img.shields.io/badge/Python-3.x-blue.svg) ![LightGBM](https://img.shields.io/badge/LightGBM-3.x-green.svg) ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Python](https://img.shields.io/badge/Python-3.8-blue.svg) ![LightGBM](https://img.shields.io/badge/LightGBM-3.8-green.svg) ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 A multi-class classification project using LightGBM to identify 9 types of malware. Built with Python, optimized with 5-fold cross-validation, and includes visualizations like confusion matrix and ROC curve.
 
